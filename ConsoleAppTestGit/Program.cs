@@ -11,6 +11,7 @@ namespace ConsoleAppTestGit
         static void Main(string[] args)
         {
             Console.WriteLine("Привет мир!!!");
+            Console.ReadKey();
         }
     }
 }
