@@ -12,6 +12,7 @@ namespace ConsoleAppTestGit
         {
             Console.WriteLine("Привет мир!!!");
             Console.ReadKey();
+
         }
     }
 }
